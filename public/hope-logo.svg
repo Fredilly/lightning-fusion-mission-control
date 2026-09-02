@@ -1,0 +1,21 @@
+<svg width="760" height="220" viewBox="0 0 760 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="b1" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3E7BFF"/><stop offset="1" stop-color="#0B2DAA"/></linearGradient>
+    <linearGradient id="b2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6AA0FF"/><stop offset="1" stop-color="#1246E5"/></linearGradient>
+    <radialGradient id="g" cx="35%" cy="25%" r="75%"><stop stop-color="#6BA0FF"/><stop offset="0.45" stop-color="#2764F4"/><stop offset="1" stop-color="#0B2B96"/></radialGradient>
+    <clipPath id="globe"><circle cx="290" cy="110" r="82"/></clipPath>
+  </defs>
+  <g>
+    <path d="M35 35H95V85H145V35H205V185H145V132H95V185H35V35Z" fill="url(#b1)"/>
+    <circle cx="290" cy="110" r="82" fill="url(#g)"/>
+    <g clip-path="url(#globe)" fill="white" opacity="0.96">
+      <path d="M250 65l18-14 22 2 12 10 17 2 11 10-9 8-16 2-9 10-17-3-11 6-15-7-9-12 6-14Z"/>
+      <path d="M292 96l15-3 10 7-2 9 9 7-6 8-13-3-4 11-8-2-7-12 6-22Z"/>
+      <path d="M320 129l18 2 7 7-6 8-12 2-6-6-8 3-4-6 11-10Z"/>
+      <path d="M337 150l14 5 5 8-7 5-15-5-4-8 7-5Z"/>
+      <path d="M221 92l11-7 9 3-2 9-8 5-10-2v-8Z"/>
+    </g>
+    <path d="M397 35H510C560 35 587 61 587 104C587 147 560 172 510 172H458V185H397V35ZM458 86V124H503C518 124 526 117 526 105C526 93 518 86 503 86H458Z" fill="url(#b2)"/>
+    <path d="M603 35H728V84H664V92H719V130H664V137H728V185H603V35Z" fill="url(#b1)"/>
+  </g>
+</svg>
